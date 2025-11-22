@@ -32,4 +32,8 @@ class Student {
         this.rno = other.rno;
         this.marks = other.marks;
     }
+    Student(){
+        this(100, "Adias",12.2f);
+
+    }
 }
