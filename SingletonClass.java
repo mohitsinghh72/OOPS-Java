@@ -6,6 +6,9 @@ public class Main {
 
     }
 }
+
+// What is Singleton class?
+//A class that can have only one instance + provides a global access point to that instance.
 class SingletonClass {
     private SingletonClass(){
 
